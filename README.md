@@ -1,4 +1,20 @@
-# **🔍 Inspect Style - Figma Plugin**
+# **Inspect Style - Figma Plugin**
+
+Inspect and export style tokens from any Figma page — 
+fill colors, typography, and component usage — in one click.
+
+**2,600+ users · 44 likes · Figma Community**
+
+→ [Install on Figma Community](https://www.figma.com/community/plugin/1314863667125003624/inspect-style)
+
+## What it does
+- Extracts all fill colors used on the current page with hex values and usage counts
+- Lists typography styles with font family, size, weight, line height
+- Shows which components use each style — useful for auditing design systems
+- Works on any Figma file, no setup required
+
+## Stack
+TypeScript · React · TailwindCSS · Webpack · Figma Plugin API
 
 ## Overview:
 Inspect Style is a versatile Figma plugin designed to simplify style inspection within your Figma projects. With a focus on ease of use and efficiency, this plugin enables users to quickly analyze and gather information about the styles utilized on the current page of their Figma files.
